@@ -2,7 +2,7 @@
 ## Retour sur la conférence d'Eidos
 
 ### Intérêt
-Quelle partie de la conférence t'a intéressé le plus? Pourquoi? (2 à 3 lignes) 
+J'ai beaucoup aimé la conférence, le conférencier était très intéressant et j'ai beaucoup apprécié quand il nous racontait ses experiences personnelles et des anecdotes sur le milieu et sur les gens assez connu du milieu. C'était interessant de voircomment le milieu fonctionne et comment les sous-compagnies sont à la fois indépendantes mais aussi dirigées par leur compagnies mère.
 
 ### Travail
-Suite à la conférence, aimerais-tu travailler dans le monde du jeu vidéo? Si oui, qu'est-ce qui t'a motivé dans la conférence et si non, pourquoi? (2 à 3 lignes)
+Le monde du jeu vidéo m'a toujours semblé aléchant, comme pour plusieurs je pense, mais la conférence d'eidos m'a encore plus ouvert les yeux sur le milieu et m'y a encore plus tenté. L domaine du jeu vidéo est définitivement l'une de mes optins en sortants du cégep, mais je ne m'y fixe pas et je suis prêt à découvrir d'autre milieu et à me garder D'autres portes ouvertes.
