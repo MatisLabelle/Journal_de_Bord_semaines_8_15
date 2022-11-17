@@ -2,4 +2,4 @@
 ## Préparation de la présentation 3 
 Joindre des images de votre tempête d'idée et des esquisses de votre projet. Expliquer en 2 à 3 lignes votre projet. 
 
-![carte heuristique](Images/map heuristique copie.jpg)
+![carte heuristique](Images/planprojet.jpg)
