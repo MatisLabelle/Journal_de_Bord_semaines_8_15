@@ -26,14 +26,14 @@ RPG
 Décrivez quelles seront les technologies utilisées dans votre projet. 
 
 ### Tâches
--Programmation
--Animation 2D
--Textures
--Campagne marketing
--Création de la bande sonore
--Enregistrement des effets sonores
--Enregistrement des voix
--Écriture de l’histoire
--Design
+Programmation,
+Animation 2D,
+Textures,
+Campagne marketing,
+Création de la bande sonore,
+Enregistrement des effets sonores,
+Enregistrement des voix,
+Écriture de l’histoire et
+Design.
 
 
