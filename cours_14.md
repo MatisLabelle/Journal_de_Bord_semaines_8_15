@@ -23,7 +23,7 @@ RPG
 ![moodboard](Images/Capture.PNG)
 
 ### Technologies
-Décrivez quelles seront les technologies utilisées dans votre projet. 
+Des ordinnateurs pour la programmation et le design. Micro pour enregistrement et différentes consoles pour jouer au jeu.
 
 ### Tâches
 Programmation,
