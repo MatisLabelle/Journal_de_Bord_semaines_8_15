@@ -20,7 +20,7 @@ RPG
 ![snénarimage](Images/scenarmage.PNG)
 
 ### Moodboard
-![moodboard](Image/Capture.png)
+![moodboard](Images/Capture.PNG)
 
 ### Technologies
 Décrivez quelles seront les technologies utilisées dans votre projet. 
