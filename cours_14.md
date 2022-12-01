@@ -17,10 +17,10 @@ RPG
 
 
 ### Schéma du projet ou scénarimage
-![snénarimage](Image/scnarmage.png)
+![snénarimage](Images/scenarmage.PNG)
 
 ### Moodboard
-Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
+![moodboard](Image/Capture.png)
 
 ### Technologies
 Décrivez quelles seront les technologies utilisées dans votre projet. 
